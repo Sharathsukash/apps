@@ -9,3 +9,5 @@ keywords:
   - chat
   - voip
 category: 'Social Networking'
+disabled: true
+disabledComment: 'WhatsApp has deprecated their electron apps for desktop, Instead they made new native clients based on respective platforms'
